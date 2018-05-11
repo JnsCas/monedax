@@ -1,0 +1,6 @@
+com/rcn/test/monedax/model/Blockchain.class
+com/rcn/test/monedax/controllers/BalanceController.class
+com/rcn/test/monedax/controllers/AccountController.class
+com/rcn/test/monedax/model/Block.class
+com/rcn/test/monedax/model/Account.class
+com/rcn/test/monedax/MonedaxApplication.class
